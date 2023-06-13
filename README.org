@@ -1,0 +1,9 @@
+* cl-scram
+
+Library to implement SCRAM-SHA1 in common lisp.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/mprelude/cl-scram.git |
+| commit  | e8ef861                                      |
+| systems | cl-scram                                     |
+|---------+----------------------------------------------|
